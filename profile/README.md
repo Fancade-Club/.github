@@ -8,4 +8,4 @@ The Dittocade was previously known as the Fancade Club. This was changed due to 
 
 ## Disclaimer
 
-We are not affiliated with Fancade. See [our disclaimer](https://ditto.cade.party/disclaimer). For inquiries please [contact us](https://ditto.cade.party/contact).
+We are not affiliated with Fancade. See [our disclaimer](https://cade.party/disclaimer). For inquiries please [contact us](https://cade.party/contact).
